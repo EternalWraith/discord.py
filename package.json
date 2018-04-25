@@ -1,0 +1,10 @@
+{
+  "name": "discord.py",
+  "description": "discord.py",
+  "main": "setup.py",
+  "scripts": {
+    "start": "python3 setup.py"
+  },
+  "dependencies": {
+  }
+}
